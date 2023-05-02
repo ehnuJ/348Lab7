@@ -1,2 +1,2 @@
-# 348Lab7
-#https://people.eecs.ku.edu/~j437o354/
+# HTML|CSS|JS Website
+# https://people.eecs.ku.edu/~j437o354/
